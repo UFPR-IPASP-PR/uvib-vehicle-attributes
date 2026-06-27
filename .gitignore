@@ -1,0 +1,21 @@
+# ignorar ambiente virtual e cache do python
+__pycache__/
+*.pyc
+.venv/
+
+# ignorar datasets e imagens pesadas
+datasets/
+data/
+*.jpg
+*.png
+*.png.png
+
+# ignorar pesos de modelos treinados e checkpoints
+*.pt
+*.pth
+*.weights
+*.onnx
+
+# ignorar logs de treino pesados
+runs/
+wandb/
