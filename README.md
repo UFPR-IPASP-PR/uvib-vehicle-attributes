@@ -37,7 +37,7 @@ This paper was accepted in the main track of the Conference on Graphics, Pattern
 
 If you use the UVIB in your research, please cite the paper:
 
-'''bibtex
+bibtex'''
 @article{silvajr2026benchmark,
   title = {A Benchmark for Vehicle Attribute Classification in Cross-Domain Surveillance Scenarios},
   author = {Sergio M. {Silva Jr.} and Otavio T. {Remer} and Gabriel E. {Lima} and Lucas {Wojcik} and Rayson {Laroca} and David {Menotti}},

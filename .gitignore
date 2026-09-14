@@ -3,13 +3,6 @@ __pycache__/
 *.pyc
 .venv/
 
-# ignorar datasets e imagens pesadas
-datasets/
-data/
-*.jpg
-*.png
-*.png.png
-
 # ignorar pesos de modelos treinados e checkpoints
 *.pt
 *.pth
